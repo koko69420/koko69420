@@ -86,15 +86,6 @@ My work centers on building hard-wired, deterministic, and power-efficient physi
 
 ---
 
-### 📊 GitHub Activity & Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=koko69420&show_icons=true&hide_border=true&theme=tokyonight" alt="Kausthubh's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=koko69420&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <sub>Engineered with precision • Designed for reliability • Powered by open source</sub>
 </p>
